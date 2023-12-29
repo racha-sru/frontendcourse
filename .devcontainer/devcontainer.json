@@ -11,7 +11,8 @@
 				"ms-vsliveshare.vsliveshare",
 				"rvest.vs-code-prettier-eslint",
 				"ms-dotnettools.vscode-dotnet-pack",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"ms-dotnettools.dotnet-interactive-vscode"
 			]
 		}
 	}
